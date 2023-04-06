@@ -1,2 +1,3 @@
 # WeatherForecastWebApplication
-This is a Weather and WeatherForecast web application , which is made of HTML, CSS, Javascript and Weather API. This website shows the current weather information and next 6 days weather information of the place you search. By default the location set to "Delhi".
+This is a Weather and WeatherForecast web application, which is made of HTML, CSS, Javascript and Weather API. This website shows the current weather information and next 6 days weather information of the place you search. By default the location set to "Delhi".
+You can search your place by entering the name of your place in the search box and then click on the Search button. If your place is found, it shows the weather details, but if it's not found then the previous location weather details will continue to show in the screen. You should always try to give the correct and valid name of place otherwise it shows an error message.
